@@ -1,3 +1,3 @@
 #sample code
 this is a sample
-hello everyone
+hello everyone.
